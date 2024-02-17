@@ -46,7 +46,3 @@ quantity_sold(after_promo): The quantity of the product sold after the promotion
 
 
 *******************************************
-
-
-
-Note: The database named `retail_events_db` includes all the tables mentioned above. This is useful while writing SQL queries to find answers to business questions.
