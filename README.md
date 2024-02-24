@@ -20,3 +20,4 @@ Answer important business questions posed by senior executives, requiring SQL-ba
 You need to present this to the sales director - hence  create a convincing presentation with actionable insights. 
 
 The Questions are added in the files.
+Link to Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYTUyYjgwMDktOTczNy00MmI3LThkNzAtOWM2YzA4OGRjYWZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
